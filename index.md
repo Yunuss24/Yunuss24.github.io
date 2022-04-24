@@ -4,4 +4,4 @@
 
 ### Dokumentasi 
 
-Panitia Pemilihan Umum Raya Universitas Diponegoro 2021(/sample_page)
+Panitia Pemilihan Umum Raya Universitas Diponegoro 2021
